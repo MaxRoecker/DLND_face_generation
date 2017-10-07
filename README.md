@@ -1,2 +1,3 @@
-# DLND_face_generation
-Face generation using convolutional generative adversarial networks
+# DLND Face Generation
+
+Face generation using convolutional generative adversarial networks.
